@@ -1,0 +1,8 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/wanbao118/api-gateway.git
+	branch = master
+[submodule "private-service"]
+	path = private-service
+	url = https://github.com/wanbao118/private-service.git
+	branch = master
